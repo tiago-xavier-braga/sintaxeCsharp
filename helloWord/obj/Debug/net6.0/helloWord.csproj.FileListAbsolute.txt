@@ -1,0 +1,15 @@
+/home/tiagobraga/www/github.com/c#/helloWord/bin/Debug/net6.0/helloWord
+/home/tiagobraga/www/github.com/c#/helloWord/bin/Debug/net6.0/helloWord.deps.json
+/home/tiagobraga/www/github.com/c#/helloWord/bin/Debug/net6.0/helloWord.runtimeconfig.json
+/home/tiagobraga/www/github.com/c#/helloWord/bin/Debug/net6.0/helloWord.dll
+/home/tiagobraga/www/github.com/c#/helloWord/bin/Debug/net6.0/helloWord.pdb
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.csproj.AssemblyReference.cache
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.AssemblyInfoInputs.cache
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.AssemblyInfo.cs
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.csproj.CoreCompileInputs.cache
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.dll
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/refint/helloWord.dll
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.pdb
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/helloWord.genruntimeconfig.cache
+/home/tiagobraga/www/github.com/c#/helloWord/obj/Debug/net6.0/ref/helloWord.dll

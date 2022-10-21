@@ -1,0 +1,15 @@
+/home/tiagobraga/www/github.com/c#/variable/bin/Debug/net6.0/variable
+/home/tiagobraga/www/github.com/c#/variable/bin/Debug/net6.0/variable.deps.json
+/home/tiagobraga/www/github.com/c#/variable/bin/Debug/net6.0/variable.runtimeconfig.json
+/home/tiagobraga/www/github.com/c#/variable/bin/Debug/net6.0/variable.dll
+/home/tiagobraga/www/github.com/c#/variable/bin/Debug/net6.0/variable.pdb
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.dll
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/refint/variable.dll
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.pdb
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/variable.genruntimeconfig.cache
+/home/tiagobraga/www/github.com/c#/variable/obj/Debug/net6.0/ref/variable.dll
