@@ -1,0 +1,15 @@
+/home/tiagobraga/www/github.com/c#/studyClass/bin/Debug/net6.0/studyClass
+/home/tiagobraga/www/github.com/c#/studyClass/bin/Debug/net6.0/studyClass.deps.json
+/home/tiagobraga/www/github.com/c#/studyClass/bin/Debug/net6.0/studyClass.runtimeconfig.json
+/home/tiagobraga/www/github.com/c#/studyClass/bin/Debug/net6.0/studyClass.dll
+/home/tiagobraga/www/github.com/c#/studyClass/bin/Debug/net6.0/studyClass.pdb
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.csproj.AssemblyReference.cache
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.AssemblyInfoInputs.cache
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.AssemblyInfo.cs
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.csproj.CoreCompileInputs.cache
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.dll
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/refint/studyClass.dll
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.pdb
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/studyClass.genruntimeconfig.cache
+/home/tiagobraga/www/github.com/c#/studyClass/obj/Debug/net6.0/ref/studyClass.dll
